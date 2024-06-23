@@ -30,6 +30,7 @@
 }
 
 
+
 /*** Heading ***/
 h1,
 h2,
@@ -501,6 +502,7 @@ h6,
     border: 1px solid rgba(256, 256, 256, .1);
     border-radius: 40px;
     transition: .3s;
+
 }
 
 .footer .btn.btn-social:hover {
@@ -543,3 +545,10 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+
+.footer_image
+{
+    margin-top: -120px;
+    
+}
+
