@@ -704,7 +704,8 @@ progress {
     flex-wrap: wrap;
     margin-top: calc(var(--bs-gutter-y) * -1);
     margin-right: calc(var(--bs-gutter-x) / -2);
-    margin-left: calc(var(--bs-gutter-x) / -2)
+    margin-left: calc(var(--bs-gutter-x) / -2);
+
 }
 
 .row>* {
@@ -8432,7 +8433,8 @@ ff8f00 */
 }
 
 .rounded {
-    border-radius: 10px !important
+    border-radius: 10px !important;
+    height: 300px;
 }
 
 .rounded-0 {
